@@ -1,0 +1,25 @@
+Construção do MVP (Produto Mínimo Viável) – Portfólio Profissional
+
+Este trabalho apresenta a primeira versão do meu portfólio profissional desenvolvido como um Produto Mínimo Viável (MVP). O objetivo do projeto foi criar uma página web simples, funcional e organizada para apresentar informações pessoais e projetos, utilizando tecnologias básicas do desenvolvimento web: HTML5, CSS3 e JavaScript.
+
+Estrutura Semântica
+O site foi desenvolvido utilizando HTML5 com marcação semântica, contendo cabeçalho com menu de navegação, seções principais como “Sobre mim”, “Habilidades”, “Meus projetos” e “Contato”, além de um rodapé com informações adicionais. Essa organização melhora a leitura do código e facilita sua manutenção.
+
+Estilização
+A estilização foi realizada com CSS3, utilizando Flexbox para organizar os elementos da página. Também foi aplicada responsividade básica, permitindo melhor visualização em dispositivos móveis e computadores.
+
+Interatividade
+A parte dinâmica do projeto foi implementada utilizando JavaScript. Foi criado um array de objetos contendo informações sobre os projetos, como nome, descrição e link. Esses dados são renderizados dinamicamente na página HTML.
+
+Versionamento
+Para controle de versão e organização do projeto foi utilizado o GitHub, permitindo armazenar os arquivos do site em um repositório público e facilitar o compartilhamento.
+
+Publicação
+Após o envio do projeto para o GitHub, o site pode ser publicado utilizando o GitHub Pages, tornando o portfólio acessível online por meio de um link público.
+
+Links do Projeto
+Repositório público no GitHub:
+https://github.com/seu-usuario/seu-repositorio
+
+Projeto publicado no GitHub Pages:
+https://seu-usuario.github.io/seu-repositorio
